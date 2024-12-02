@@ -64,7 +64,7 @@ function homepage() {
       <h1 className='text-[#457B9D] font-semibold text-2xl'>About</h1>
       <h1 className='font-bold text-[48px] '>About Me?</h1>
       <p className='md:text-justify text-[20px] font-normal text-[#455A64] tracking-tighter'>
-I'm a frontend web developer with knowledge in HTML, CSS, TypeScript, and JavaScript, and currently learning Next.js and Tailwind. I have a keen interest in web development, especially in creating visually appealing and functional websites. I'm actively working on improving my skills and deploying my projects online. I’m constantly seeking opportunities to learn, grow, and contribute to meaningful projects, with the ultimate goal of making an impact in the world of web development.</p>
+I&apos;m a frontend web developer with knowledge in HTML, CSS, TypeScript, and JavaScript, and currently learning Next.js and Tailwind. I have a keen interest in web development, especially in creating visually appealing and functional websites. I&apos;m actively working on improving my skills and deploying my projects online. I&apos;m constantly seeking opportunities to learn, grow, and contribute to meaningful projects, with the ultimate goal of making an impact in the world of web development.</p>
     </div>
   </div>
 </div>
